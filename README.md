@@ -2,9 +2,9 @@
 
 **PRESENTACIÓN:** https://docs.google.com/presentation/d/1HPD8TgErBo0Am-Vt_Nkp09VS85zD8wLlJVJ-Y8iwoCU/edit#slide=id.g5e3867c865_3_0
 
-[chatbot](https://assistant-chat-us-south.watsonplatform.net/web/public/964dfb75-9fed-442c-9661-d0ea068ddc19)
+**DEMO CHATBOT**: [chatbot](https://assistant-chat-us-south.watsonplatform.net/web/public/964dfb75-9fed-442c-9661-d0ea068ddc19)
 
-[visual recognition](http://analizadortacos-boisterous-quoll.mybluemix.net/)
+**DEMO VISUAL RECOGNITION:** [visual recognition](http://analizadortacos-boisterous-quoll.mybluemix.net/)
 
 **SOLUCIÓN**
 
