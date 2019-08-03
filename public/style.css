@@ -2,6 +2,7 @@
 {
 height: 100px;
 width: 100px;
+margin-left: 30%
 }
 form
 {
@@ -13,4 +14,93 @@ align-content: center;
 #sdb
 {
   margin-top: 10px;
+}
+
+* {
+  position: relative;
+/* width: 360px;
+height: 640px; */
+background: #343434;
+color: white;
+}
+
+.material-icons {
+  line-height: 3 !important
+}
+.material-icons menu {
+color: white !important;
+position: absolute;
+width: 25px;
+height: 0px;
+left: 23px;
+top: 15px;
+}
+
+input {
+  color: white !important;
+}
+
+.btn {
+  background-color: #F75A05 !important;
+  border-radius: 16px !important;
+  width: 45% !important;
+}
+
+.inventario {
+  position: absolute;
+width: 152px;
+height: 19px;
+left: 124px;
+top: 11px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFDFC;
+}
+
+#crop {
+  position: absolute;
+width: 38px;
+height: 35px;
+left: 310px;
+top: -7px;
+
+}
+
+#agregar {
+  position: absolute;
+width: 171px;
+height: 31px;
+left: 36px;
+top:4px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+
+color: #F75A05;
+}
+
+#searcher {
+  position: absolute;
+  width: 335px;
+height: 28px;
+top: 80px;
+
+background: #FFFDFC;
+border-radius: 50px;
+}
+
+form {
+  margin-top: 14%;
+}
+
+#product {
+  margin-left: 17%;
 }
